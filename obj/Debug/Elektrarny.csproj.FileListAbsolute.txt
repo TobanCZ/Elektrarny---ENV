@@ -10,3 +10,7 @@ C:\Users\tobia\OneDrive\Plocha\Visual Studio\Elektrarny\obj\Debug\Elektrarny.exe
 C:\Users\tobia\OneDrive\Plocha\Visual Studio\Elektrarny\obj\Debug\Elektrarny.pdb
 C:\Users\tobia\OneDrive\Plocha\Visual Studio\Elektrarny\obj\Debug\Elektrarny.Game.resources
 C:\Users\tobia\OneDrive\Plocha\Visual Studio\Elektrarny\obj\Debug\Elektrarny.Names.resources
+C:\Users\tobia\OneDrive\Plocha\Visual Studio\Elektrarny\bin\Debug\Elektrarny.exe.manifest
+C:\Users\tobia\OneDrive\Plocha\Visual Studio\Elektrarny\bin\Debug\Elektrarny.application
+C:\Users\tobia\OneDrive\Plocha\Visual Studio\Elektrarny\obj\Debug\Elektrarny.exe.manifest
+C:\Users\tobia\OneDrive\Plocha\Visual Studio\Elektrarny\obj\Debug\Elektrarny.application
