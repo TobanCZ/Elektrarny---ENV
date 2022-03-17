@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0fc5509b-b46b-48bd-9834-85d0abfdb4cb": {
+      "ProjectGuid": "0fc5509b-b46b-48bd-9834-85d0abfdb4cb",
+      "DisplayName": "Elektrarny",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

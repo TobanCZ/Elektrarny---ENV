@@ -1,0 +1,12 @@
+C:\Users\tobia\OneDrive\Plocha\Visual Studio\Elektrarny\bin\Debug\Elektrarny.exe.config
+C:\Users\tobia\OneDrive\Plocha\Visual Studio\Elektrarny\bin\Debug\Elektrarny.exe
+C:\Users\tobia\OneDrive\Plocha\Visual Studio\Elektrarny\bin\Debug\Elektrarny.pdb
+C:\Users\tobia\OneDrive\Plocha\Visual Studio\Elektrarny\obj\Debug\Elektrarny.csproj.AssemblyReference.cache
+C:\Users\tobia\OneDrive\Plocha\Visual Studio\Elektrarny\obj\Debug\Elektrarny.csproj.SuggestedBindingRedirects.cache
+C:\Users\tobia\OneDrive\Plocha\Visual Studio\Elektrarny\obj\Debug\Elektrarny.Properties.Resources.resources
+C:\Users\tobia\OneDrive\Plocha\Visual Studio\Elektrarny\obj\Debug\Elektrarny.csproj.GenerateResource.cache
+C:\Users\tobia\OneDrive\Plocha\Visual Studio\Elektrarny\obj\Debug\Elektrarny.csproj.CoreCompileInputs.cache
+C:\Users\tobia\OneDrive\Plocha\Visual Studio\Elektrarny\obj\Debug\Elektrarny.exe
+C:\Users\tobia\OneDrive\Plocha\Visual Studio\Elektrarny\obj\Debug\Elektrarny.pdb
+C:\Users\tobia\OneDrive\Plocha\Visual Studio\Elektrarny\obj\Debug\Elektrarny.Game.resources
+C:\Users\tobia\OneDrive\Plocha\Visual Studio\Elektrarny\obj\Debug\Elektrarny.Names.resources
